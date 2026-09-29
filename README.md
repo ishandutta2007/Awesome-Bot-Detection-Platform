@@ -55,42 +55,42 @@ Below is a comparison of commercial bot detection platforms, sorted in **descend
 
 ## 💻 Open-Source GitHub Bot Detection Repositories
 
-Below is a curated list of active open-source projects for self-hosted bot detection, browser fingerprinting, crawler identification, and user-agent analysis, sorted in **descending order by GitHub star count**:
+Below is a curated list of active open-source projects for self-hosted bot detection, browser fingerprinting, crawler identification, and user-agent analysis, sorted in **descending order by GitHub Stars_Count**:
 
-- **[FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)** 🖐️ [![GitHub Stars](https://img.shields.io/github/stars/fingerprintjs/fingerprintjs?style=social&color=white)](https://github.com/fingerprintjs/fingerprintjs/stargazers)  
+- **[FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)** 🖐️ [![GitHub_Stars](https://img.shields.io/github/stars/fingerprintjs/fingerprintjs?style=social&color=white)](https://github.com/fingerprintjs/fingerprintjs/stargazers)  
   The leading open-source browser fingerprinting library in JavaScript 📜. Generates unique browser identifiers based on HTML5 canvas 🎨, WebGL, audio fingerprinting 🎧, and browser features to identify returning users and bot devices.
 
-- **[CrowdSec](https://github.com/crowdsecurity/crowdsec)** 👥 [![GitHub Stars](https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social&color=white)](https://github.com/crowdsecurity/crowdsec/stargazers)  
+- **[CrowdSec](https://github.com/crowdsecurity/crowdsec)** 👥 [![GitHub_Stars](https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social&color=white)](https://github.com/crowdsecurity/crowdsec/stargazers)  
   Open-source crowdsourced security engine and IP reputation network 🌐. Includes WAF capabilities and bot detection challenge modules (combining proof-of-work challenges 🧩, fingerprinting, and behavioral analysis) compatible with NGINX, Traefik, Caddy, and Envoy.
 
-- **[CrawlerDetect (PHP)](https://github.com/JayBizzle/Crawler-Detect)** 🐘 [![GitHub Stars](https://img.shields.io/github/stars/JayBizzle/Crawler-Detect?style=social&color=white)](https://github.com/JayBizzle/Crawler-Detect/stargazers)  
+- **[CrawlerDetect (PHP)](https://github.com/JayBizzle/Crawler-Detect)** 🐘 [![GitHub_Stars](https://img.shields.io/github/stars/JayBizzle/Crawler-Detect?style=social&color=white)](https://github.com/JayBizzle/Crawler-Detect/stargazers)  
   The industry-standard PHP class to detect bots, crawlers, and spiders via User-Agent inspection 🔍. Maintained with regular updates covering 1,000+ bot signatures.
 
-- **[BotD (FingerprintJS)](https://github.com/fingerprintjs/BotD)** 🕵️ [![GitHub Stars](https://img.shields.io/github/stars/fingerprintjs/BotD?style=social&color=white)](https://github.com/fingerprintjs/BotD/stargazers)  
+- **[BotD (FingerprintJS)](https://github.com/fingerprintjs/BotD)** 🕵️ [![GitHub_Stars](https://img.shields.io/github/stars/fingerprintjs/BotD?style=social&color=white)](https://github.com/fingerprintjs/BotD/stargazers)  
   Dedicated browser-side bot detection JavaScript library from FingerprintJS 🧪. Uses 20+ detectors to examine browser engine identity, automation flags (`navigator.webdriver`), `eval.toString()` inconsistencies, and headlessness 🤖.
 
-- **[browser-detect (Laravel)](https://github.com/hisorange/browser-detect)** 🔴 [![GitHub Stars](https://img.shields.io/github/stars/hisorange/browser-detect?style=social&color=white)](https://github.com/hisorange/browser-detect/stargazers)  
+- **[browser-detect (Laravel)](https://github.com/hisorange/browser-detect)** 🔴 [![GitHub_Stars](https://img.shields.io/github/stars/hisorange/browser-detect?style=social&color=white)](https://github.com/hisorange/browser-detect/stargazers)  
   Popular Laravel package to detect user devices, browsers, operating systems, and automated bot requests 📱.
 
-- **[isbot (JavaScript)](https://github.com/omusc/isbot)** 🟨 [![GitHub Stars](https://img.shields.io/github/stars/omusc/isbot?style=social&color=white)](https://github.com/omusc/isbot/stargazers)  
+- **[isbot (JavaScript)](https://github.com/omusc/isbot)** 🟨 [![GitHub_Stars](https://img.shields.io/github/stars/omusc/isbot?style=social&color=white)](https://github.com/omusc/isbot/stargazers)  
   Ultra-lightweight JavaScript and Node.js module ⚡ to test whether a request originates from a search engine crawler or automated spider using regex patterns 🔤.
 
-- **[scrapy-zyte-smartproxy](https://github.com/scrapy-plugins/scrapy-zyte-smartproxy)** 🐍 [![GitHub Stars](https://img.shields.io/github/stars/scrapy-plugins/scrapy-zyte-smartproxy?style=social&color=white)](https://github.com/scrapy-plugins/scrapy-zyte-smartproxy/stargazers)  
+- **[scrapy-zyte-smartproxy](https://github.com/scrapy-plugins/scrapy-zyte-smartproxy)** 🐍 [![GitHub_Stars](https://img.shields.io/github/stars/scrapy-plugins/scrapy-zyte-smartproxy?style=social&color=white)](https://github.com/scrapy-plugins/scrapy-zyte-smartproxy/stargazers)  
   Scrapy middleware integration for managing proxy rotation 🔄 and counter-bot mitigation bypass during python-based web crawling.
 
-- **[crawler_detect (Ruby)](https://github.com/loadkpi/crawler_detect)** 💎 [![GitHub Stars](https://img.shields.io/github/stars/loadkpi/crawler_detect?style=social&color=white)](https://github.com/loadkpi/crawler_detect/stargazers)  
+- **[crawler_detect (Ruby)](https://github.com/loadkpi/crawler_detect)** 💎 [![GitHub_Stars](https://img.shields.io/github/stars/loadkpi/crawler_detect?style=social&color=white)](https://github.com/loadkpi/crawler_detect/stargazers)  
   Ruby gem port of CrawlerDetect to detect bots and spiders in Ruby on Rails applications 🛤️.
 
-- **[crawlerdetect (Go)](https://github.com/x-way/crawlerdetect)** 🐹 [![GitHub Stars](https://img.shields.io/github/stars/x-way/crawlerdetect?style=social&color=white)](https://github.com/x-way/crawlerdetect/stargazers)  
+- **[crawlerdetect (Go)](https://github.com/x-way/crawlerdetect)** 🐹 [![GitHub_Stars](https://img.shields.io/github/stars/x-way/crawlerdetect?style=social&color=white)](https://github.com/x-way/crawlerdetect/stargazers)  
   Golang module to check incoming HTTP requests against bot/crawler patterns 🚀.
 
-- **[isbot (Rust)](https://github.com/BryanMorgan/isbot)** 🦀 [![GitHub Stars](https://img.shields.io/github/stars/BryanMorgan/isbot?style=social&color=white)](https://github.com/BryanMorgan/isbot/stargazers)  
+- **[isbot (Rust)](https://github.com/BryanMorgan/isbot)** 🦀 [![GitHub_Stars](https://img.shields.io/github/stars/BryanMorgan/isbot?style=social&color=white)](https://github.com/BryanMorgan/isbot/stargazers)  
   Fast Rust crate 🦀 to identify crawlers and bots from request HTTP headers.
 
-- **[web-crawler-detection](https://github.com/zivdar001matin/web-crawler-detection)** 📊 [![GitHub Stars](https://img.shields.io/github/stars/zivdar001matin/web-crawler-detection?style=social&color=white)](https://github.com/zivdar001matin/web-crawler-detection/stargazers)  
+- **[web-crawler-detection](https://github.com/zivdar001matin/web-crawler-detection)** 📊 [![GitHub_Stars](https://img.shields.io/github/stars/zivdar001matin/web-crawler-detection?style=social&color=white)](https://github.com/zivdar001matin/web-crawler-detection/stargazers)  
   Unsupervised machine learning repository 🧠 demonstrating clustering models for web log bot identification.
 
-- **[Bot-Analytics-with-PHP](https://github.com/S4k1dl0/Bot-Analytics-with-PHP)** 📈 [![GitHub Stars](https://img.shields.io/github/stars/S4k1dl0/Bot-Analytics-with-PHP?style=social&color=white)](https://github.com/S4k1dl0/Bot-Analytics-with-PHP/stargazers)  
+- **[Bot-Analytics-with-PHP](https://github.com/S4k1dl0/Bot-Analytics-with-PHP)** 📈 [![GitHub_Stars](https://img.shields.io/github/stars/S4k1dl0/Bot-Analytics-with-PHP?style=social&color=white)](https://github.com/S4k1dl0/Bot-Analytics-with-PHP/stargazers)  
   PHP and MySQL dashboard 🐬 for detecting, logging, and analyzing crawler traffic patterns.
 
 ---

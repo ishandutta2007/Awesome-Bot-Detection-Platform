@@ -93,6 +93,9 @@ Below is a curated list of active open-source projects for self-hosted bot detec
 - **[Bot-Analytics-with-PHP](https://github.com/S4k1dl0/Bot-Analytics-with-PHP)** 📈 [![GitHub_Stars](https://img.shields.io/github/stars/S4k1dl0/Bot-Analytics-with-PHP?style=social&color=white)](https://github.com/S4k1dl0/Bot-Analytics-with-PHP/stargazers)  
   PHP and MySQL dashboard 🐬 for detecting, logging, and analyzing crawler traffic patterns.
 
+- **[crawlaudit](https://github.com/hamarshehmhmd/crawlaudit)** 🤖 [![GitHub_Stars](https://img.shields.io/github/stars/hamarshehmhmd/crawlaudit?style=social&color=white)](https://github.com/hamarshehmhmd/crawlaudit/stargazers)  
+  Python CLI that reads nginx, Apache and Caddy access logs to show which AI crawlers hit a site, their bandwidth share, how many robots.txt-disallowed URLs each fetched, and whether "GPTBot"/"Googlebot" requests come from the operator's published IP ranges. Generates block rules for robots.txt, nginx, Apache, Caddy and HAProxy.
+
 ---
 
 ### ⚙️ Key Architectural Guidelines for Self-Hosting
